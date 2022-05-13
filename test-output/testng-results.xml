@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17178" started-at="2022-05-11T19:47:58 IST" finished-at="2022-05-11T19:48:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17178" started-at="2022-05-11T19:47:58 IST" finished-at="2022-05-11T19:48:15 IST">
+      <class name="Testing_Assigment.automation_testing">
+        <test-method status="PASS" signature="Browser_Launch()[pri:0, instance:Testing_Assigment.automation_testing@462d5aee]" name="Browser_Launch" is-config="true" duration-ms="13596" started-at="2022-05-11T19:47:58 IST" finished-at="2022-05-11T19:48:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_Launch -->
+        <test-method status="PASS" signature="HomePage_Launch()[pri:1, instance:Testing_Assigment.automation_testing@462d5aee]" name="HomePage_Launch" duration-ms="2648" started-at="2022-05-11T19:48:12 IST" finished-at="2022-05-11T19:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_Launch -->
+        <test-method status="PASS" signature="Terminate()[pri:0, instance:Testing_Assigment.automation_testing@462d5aee]" name="Terminate" is-config="true" duration-ms="881" started-at="2022-05-11T19:48:15 IST" finished-at="2022-05-11T19:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- Testing_Assigment.automation_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
